@@ -1,0 +1,501 @@
+company_id,company_name,industry,company_size,hq_region
+C0001,Daybreak Works Technologies,Financial Services,144,United Kingdom
+C0002,Lighthouse Labs Technologies,Telecommunications,139,United States
+C0003,Skyward Ventures,Telecommunications,111,Germany
+C0004,Ridge Insights Digital,Media & Entertainment,178,Germany
+C0005,Cloudline Ventures Works,Retail & Commerce,177,India
+C0006,Maple Peak Labs,Insurance,122,Germany
+C0007,Maple Frontier Solutions,Professional Services,105,Germany
+C0008,Riverbend Horizon Solutions,Financial Services,129,Australia
+C0009,Quantum Peak,Media & Entertainment,142,United Kingdom
+C0010,Skyward Logic,Manufacturing,111,Canada
+C0011,Westbridge Bridge Works,Consumer Goods,127,Germany
+C0012,Summit Ventures Systems,Software & SaaS,176,Singapore
+C0013,Union Ventures Group,Retail & Commerce,161,Australia
+C0014,Ridge Technologies Solutions,Insurance,108,United Kingdom
+C0015,Riverbend Cloud Technologies,Retail & Commerce,147,Australia
+C0016,Goldleaf Matrix Group,Software & SaaS,168,Germany
+C0017,Bluepeak Signal Labs,Healthcare,180,Singapore
+C0018,Ridge Works Digital,Energy,130,United States
+C0019,Willow Collective Systems,Education Technology,114,United Kingdom
+C0020,Keystone Nexus Solutions,Media & Entertainment,145,United States
+C0021,Bright Analytics Group,Insurance,139,Germany
+C0022,Meridian Cloud Works,Media & Entertainment,106,United States
+C0023,Maple Analytics Labs,Telecommunications,142,India
+C0024,Riverbend Analytics Technologies,Insurance,148,Canada
+C0025,Copper Grid Works,Financial Services,132,India
+C0026,Riverbend Ventures Systems,Logistics,115,United States
+C0027,Cobalt Studio Technologies,Education Technology,135,Canada
+C0028,Westbridge Collective Labs,Education Technology,127,Australia
+C0029,Lighthouse Works,Media & Entertainment,136,Germany
+C0030,Goldleaf Dynamics Digital,Healthcare,139,Canada
+C0031,Evergreen Foundry,Retail & Commerce,154,United States
+C0032,Bluepeak Dynamics Systems,Energy,175,United States
+C0033,Pioneer Vista Works,Professional Services,174,United Kingdom
+C0034,Apex Systems Technologies,Media & Entertainment,140,United Kingdom
+C0035,Ridge Analytics Solutions,Financial Services,175,India
+C0036,Skyward Digital Technologies,Financial Services,160,United States
+C0037,Keystone Collective Digital,Financial Services,153,United Kingdom
+C0038,Willow Wave Digital,Energy,109,United States
+C0039,Sunfield Analytics Labs,Media & Entertainment,160,United States
+C0040,Vertex Matrix Works,Healthcare,129,Singapore
+C0041,Orchard Solutions Works,Telecommunications,180,Australia
+C0042,Maple Group Solutions,Education Technology,137,Canada
+C0043,Lighthouse Logic,Logistics,103,Australia
+C0044,Union Forge Group,Financial Services,177,India
+C0045,Orchard Digital Works,Telecommunications,174,Canada
+C0046,Tandem Compass Works,Manufacturing,107,United Kingdom
+C0047,Silverline Pathway Group,Energy,100,Australia
+C0048,Willow Cloud Works,Financial Services,130,Australia
+C0049,Newcrest Insights Systems,Telecommunications,114,Singapore
+C0050,Union Logic Labs,Software & SaaS,144,United Kingdom
+C0051,Parkside Compass Technologies,Energy,137,Canada
+C0052,Maple Collective Solutions,Travel & Hospitality,143,Germany
+C0053,Redwood Group Works,Healthcare,106,Germany
+C0054,Tandem Systems Works,Software & SaaS,156,Canada
+C0055,Riverbend Atlas Technologies,Education Technology,153,Australia
+C0056,Pioneer Signal Digital,Professional Services,156,Singapore
+C0057,Lighthouse Cloud Digital,Retail & Commerce,150,Singapore
+C0058,Lighthouse Nexus Group,Manufacturing,126,United Kingdom
+C0059,Crown Analytics Solutions,Media & Entertainment,176,Germany
+C0060,Bright Pathway Technologies,Professional Services,138,United Kingdom
+C0061,Pioneer Ventures Digital,Healthcare,168,United States
+C0062,Lakeview Vista Group,Consumer Goods,137,United States
+C0063,Summit Wave,Software & SaaS,134,India
+C0064,Ridge Vista,Telecommunications,173,United States
+C0065,Silverline Digital Works,Logistics,159,Singapore
+C0066,Sunfield Cloud Technologies,Education Technology,109,Canada
+C0067,Cloudline Matrix Digital,Financial Services,129,Germany
+C0068,Cloudline Signal Works,Financial Services,114,Australia
+C0069,Falcon Harbor,Education Technology,168,United Kingdom
+C0070,Silverline Solutions Works,Telecommunications,111,Australia
+C0071,Northstar Studio Group,Manufacturing,131,Canada
+C0072,Lighthouse Galaxy Group,Software & SaaS,119,United Kingdom
+C0073,Crescent Galaxy Digital,Consumer Goods,158,Canada
+C0074,Vertex Pioneer Digital,Consumer Goods,144,Australia
+C0075,Maple Pathway Labs,Education Technology,146,Germany
+C0076,Northstar Nexus Group,Telecommunications,147,Germany
+C0077,Bright Works Digital,Energy,143,India
+C0078,Harbor Group Systems,Media & Entertainment,150,Canada
+C0079,Harbor Matrix Systems,Software & SaaS,152,India
+C0080,Juniper Compass Group,Software & SaaS,132,United States
+C0081,Lakeview Signal,Healthcare,127,Canada
+C0082,TrueNorth Industries Digital,Manufacturing,127,United Kingdom
+C0083,Stonegate Atlas Solutions,Media & Entertainment,145,Australia
+C0084,Silverline Technologies Works,Education Technology,115,India
+C0085,Newcrest Foundry Technologies,Logistics,104,Canada
+C0086,Cedar Works Digital,Energy,125,Australia
+C0087,Newcrest Solutions Digital,Financial Services,176,India
+C0088,Newcrest Frontier,Logistics,151,India
+C0089,Delta Network Group,Professional Services,135,Australia
+C0090,Riverbend Vista Labs,Media & Entertainment,126,India
+C0091,Bright Bridge Solutions,Travel & Hospitality,149,Australia
+C0092,Copper Horizon Group,Media & Entertainment,163,India
+C0093,Pioneer Labs Works,Financial Services,144,Australia
+C0094,Lighthouse Group Group,Retail & Commerce,143,United Kingdom
+C0095,Clearwater Studio Technologies,Logistics,140,Germany
+C0096,Openfield Wave Systems,Insurance,111,United States
+C0097,Summit Peak,Software & SaaS,151,United Kingdom
+C0098,Bright Technologies Works,Financial Services,112,United States
+C0099,Summit Nexus Technologies,Retail & Commerce,131,India
+C0100,Meridian Group Digital,Professional Services,176,Canada
+C0101,Stonegate Pioneer Labs,Media & Entertainment,152,United Kingdom
+C0102,Stonegate Atlas Labs,Energy,126,Germany
+C0103,Terra Vista Technologies,Manufacturing,121,Singapore
+C0104,Tandem Works Labs,Education Technology,175,Canada
+C0105,Crescent Analytics Technologies,Education Technology,149,Canada
+C0106,Openfield Works Digital,Professional Services,108,India
+C0107,Crescent Beacon Labs,Professional Services,108,Singapore
+C0108,Oak Frontier Labs,Consumer Goods,123,Canada
+C0109,Ridge Atlas Solutions,Travel & Hospitality,109,United Kingdom
+C0110,Newcrest Studio Works,Retail & Commerce,107,Australia
+C0111,Orchard Bridge Systems,Manufacturing,103,Australia
+C0112,Bluepeak Frontier Group,Energy,142,Canada
+C0113,Quantum Studio Technologies,Media & Entertainment,171,India
+C0114,Parkside Network,Consumer Goods,150,United States
+C0115,Apex Forge Solutions,Healthcare,167,Singapore
+C0116,Oak Beacon Systems,Insurance,147,Germany
+C0117,Bright Ventures,Telecommunications,168,Germany
+C0118,Cloudline Insights Systems,Telecommunications,102,India
+C0119,Ironwood Vista Group,Education Technology,142,United Kingdom
+C0120,Fieldstone Wave Solutions,Energy,155,Germany
+C0121,Ironwood Solutions Systems,Healthcare,152,India
+C0122,Riverbend Horizon Labs,Consumer Goods,157,Singapore
+C0123,Crescent Collective,Travel & Hospitality,170,India
+C0124,Juniper Galaxy Digital,Manufacturing,116,Canada
+C0125,Evergreen Atlas Labs,Travel & Hospitality,156,United States
+C0126,Northstar Atlas Systems,Telecommunications,154,Singapore
+C0127,Terra Grid Systems,Professional Services,153,Germany
+C0128,Evergreen Galaxy Group,Energy,179,Germany
+C0129,Sunfield Compass Digital,Professional Services,140,Germany
+C0130,Riverbend Foundry Labs,Professional Services,177,Germany
+C0131,Copper Nexus Digital,Retail & Commerce,112,Australia
+C0132,Falcon Peak Digital,Logistics,107,United Kingdom
+C0133,TrueNorth Signal Technologies,Professional Services,110,Singapore
+C0134,Keystone Dynamics Technologies,Software & SaaS,131,United Kingdom
+C0135,Riverbend Vista Works,Telecommunications,126,United States
+C0136,Granite Orbit Works,Insurance,179,Canada
+C0137,Harbor Collective Labs,Insurance,169,India
+C0138,Bright Sphere Digital,Energy,112,Canada
+C0139,TrueNorth Atlas Technologies,Healthcare,101,Germany
+C0140,Terra Dynamics,Financial Services,166,Canada
+C0141,Newcrest Works Group,Travel & Hospitality,122,United Kingdom
+C0142,Cobalt Partners Works,Education Technology,118,India
+C0143,Terra Insights Works,Retail & Commerce,118,Germany
+C0144,Falcon Nexus Solutions,Energy,142,United States
+C0145,Parkside Bridge Technologies,Manufacturing,114,India
+C0146,Firstlight Pathway Group,Professional Services,155,India
+C0147,Maple Works Digital,Financial Services,167,India
+C0148,Openfield Frontier Solutions,Travel & Hospitality,178,Singapore
+C0149,Summit Matrix Group,Education Technology,121,United Kingdom
+C0150,Cloudline Cloud Labs,Professional Services,136,United Kingdom
+C0151,Pioneer Works Systems,Telecommunications,146,Canada
+C0152,Bright Logic Technologies,Software & SaaS,152,Singapore
+C0153,Crescent Peak Works,Professional Services,153,Germany
+C0154,Lakeview Grid,Healthcare,137,Germany
+C0155,Fieldstone Wave Systems,Telecommunications,165,United States
+C0156,Apex Pathway Labs,Media & Entertainment,180,Singapore
+C0157,Orchard Vista Solutions,Manufacturing,130,India
+C0158,Westbridge Technologies Solutions,Retail & Commerce,178,United States
+C0159,Granite Pathway Works,Logistics,128,India
+C0160,Riverbend Technologies Group,Education Technology,120,Singapore
+C0161,Ironwood Labs Labs,Healthcare,114,Australia
+C0162,Stonegate Sphere Systems,Insurance,162,United States
+C0163,Falcon Atlas Technologies,Professional Services,114,United Kingdom
+C0164,Crescent Beacon Technologies,Media & Entertainment,115,Singapore
+C0165,Westbridge Works Digital,Travel & Hospitality,142,Australia
+C0166,Openfield Nexus,Healthcare,175,Singapore
+C0167,Silverline Forge Group,Consumer Goods,170,United Kingdom
+C0168,Pioneer Collective Systems,Healthcare,114,Canada
+C0169,Keystone Network Works,Energy,159,United Kingdom
+C0170,Cobalt Sphere Group,Healthcare,108,Canada
+C0171,Newcrest Technologies Labs,Financial Services,157,United Kingdom
+C0172,Orchard Matrix Digital,Manufacturing,128,Germany
+C0173,Clearwater Cloud Works,Manufacturing,152,Canada
+C0174,Crescent Labs Systems,Travel & Hospitality,160,Singapore
+C0175,Tandem Group,Retail & Commerce,101,Germany
+C0176,Orchard Foundry,Software & SaaS,141,Singapore
+C0177,Falcon Grid Solutions,Education Technology,102,Singapore
+C0178,Summit Atlas Solutions,Logistics,148,Australia
+C0179,Cedar Studio Technologies,Software & SaaS,114,United Kingdom
+C0180,Terra Galaxy Works,Telecommunications,142,United Kingdom
+C0181,Lighthouse Analytics Labs,Insurance,179,Germany
+C0182,Union Network Systems,Education Technology,125,India
+C0183,Stonegate Network Works,Financial Services,152,Germany
+C0184,TrueNorth Foundry Digital,Travel & Hospitality,130,United Kingdom
+C0185,Pioneer Atlas Systems,Insurance,105,Singapore
+C0186,Crescent Industries,Professional Services,116,United Kingdom
+C0187,Parkside Digital Works,Telecommunications,170,United Kingdom
+C0188,Juniper Sphere Digital,Education Technology,158,Australia
+C0189,Crown Atlas Systems,Consumer Goods,106,Australia
+C0190,Lakeview Pioneer Group,Logistics,132,Germany
+C0191,Stonegate Digital Technologies,Education Technology,173,Australia
+C0192,Juniper Bridge Technologies,Financial Services,150,United Kingdom
+C0193,Newcrest Solutions Systems,Financial Services,158,Singapore
+C0194,Sunfield Dynamics Group,Travel & Hospitality,105,Australia
+C0195,Terra Digital Solutions,Financial Services,160,United Kingdom
+C0196,Juniper Galaxy Technologies,Financial Services,160,India
+C0197,Bright Atlas Systems,Retail & Commerce,161,Australia
+C0198,Cobalt Vista Labs,Professional Services,132,United States
+C0199,Harbor Grid Digital,Media & Entertainment,159,Singapore
+C0200,Moonstone Group Systems,Logistics,108,Germany
+C0201,Westbridge Insights Digital,Travel & Hospitality,150,United Kingdom
+C0202,Quantum Harbor Systems,Logistics,142,India
+C0203,Harbor Studio Technologies,Software & SaaS,100,United States
+C0204,Evergreen Studio Group,Energy,164,United States
+C0205,Apex Insights Technologies,Education Technology,120,Australia
+C0206,Openfield Bridge Works,Insurance,131,India
+C0207,Granite Foundry Technologies,Retail & Commerce,126,Australia
+C0208,Daybreak Grid Digital,Logistics,137,Germany
+C0209,Evergreen Compass Works,Healthcare,103,Germany
+C0210,Terra Foundry Solutions,Insurance,136,United Kingdom
+C0211,Lighthouse Pathway,Professional Services,104,India
+C0212,Cloudline Sphere Group,Retail & Commerce,162,Canada
+C0213,Terra Matrix Group,Logistics,138,India
+C0214,Bright Ventures Technologies,Travel & Hospitality,156,United Kingdom
+C0215,Moonstone Analytics Technologies,Professional Services,109,India
+C0216,Pioneer Works Group,Telecommunications,127,Singapore
+C0217,Redwood Foundry Group,Energy,125,India
+C0218,Meridian Dynamics Works,Retail & Commerce,155,United States
+C0219,Openfield Nexus Digital,Telecommunications,100,Canada
+C0220,Granite Grid Works,Media & Entertainment,128,Australia
+C0221,Summit Systems Digital,Education Technology,180,Germany
+C0222,Maple Partners Works,Financial Services,133,United States
+C0223,Evergreen Horizon Solutions,Consumer Goods,118,United Kingdom
+C0224,Daybreak Pathway Labs,Travel & Hospitality,116,Singapore
+C0225,Cloudline Matrix Group,Media & Entertainment,106,Germany
+C0226,Daybreak Technologies,Retail & Commerce,130,Germany
+C0227,Riverbend Pathway Systems,Financial Services,135,Canada
+C0228,Silverline Orbit,Energy,122,Canada
+C0229,Evergreen Vista Works,Software & SaaS,177,United Kingdom
+C0230,Juniper Insights Systems,Telecommunications,144,United States
+C0231,Bright Works Technologies,Insurance,144,United States
+C0232,Copper Grid Technologies,Consumer Goods,150,Singapore
+C0233,Redwood Works,Software & SaaS,144,Australia
+C0234,Willow Analytics,Media & Entertainment,175,India
+C0235,Cloudline Compass Systems,Software & SaaS,122,Australia
+C0236,Oak Partners Works,Media & Entertainment,130,Canada
+C0237,Quantum Grid Systems,Retail & Commerce,137,Germany
+C0238,TrueNorth Galaxy Systems,Professional Services,155,United Kingdom
+C0239,Lakeview Wave Group,Insurance,118,India
+C0240,Westbridge Solutions,Financial Services,177,Germany
+C0241,Silverline Peak Group,Financial Services,122,Germany
+C0242,Stonegate Network,Retail & Commerce,147,Singapore
+C0243,Cedar Wave Group,Logistics,105,Germany
+C0244,Orchard Beacon Systems,Healthcare,111,Germany
+C0245,Oak Digital Digital,Energy,118,Germany
+C0246,Crescent Ventures Labs,Media & Entertainment,131,Germany
+C0247,Granite Studio Works,Travel & Hospitality,151,Singapore
+C0248,Juniper Pioneer Labs,Education Technology,113,Australia
+C0249,Quantum Horizon Digital,Travel & Hospitality,111,Singapore
+C0250,Skyward Technologies Labs,Consumer Goods,135,United Kingdom
+C0251,Skyward Cloud Digital,Energy,113,United Kingdom
+C0252,Orchard Studio Digital,Energy,151,United States
+C0253,Redwood Sphere Labs,Healthcare,102,Canada
+C0254,Vertex Works Labs,Healthcare,130,Germany
+C0255,Tandem Beacon Labs,Retail & Commerce,126,Germany
+C0256,Ironwood Dynamics Group,Retail & Commerce,131,Canada
+C0257,Westbridge Network Group,Healthcare,116,Germany
+C0258,Falcon Forge Works,Retail & Commerce,119,Germany
+C0259,Lighthouse Matrix Labs,Healthcare,137,India
+C0260,Ironwood Industries Works,Insurance,122,Singapore
+C0261,Juniper Forge Systems,Insurance,153,Canada
+C0262,Falcon Collective Systems,Energy,167,India
+C0263,Stonegate Beacon Solutions,Education Technology,114,Canada
+C0264,Pioneer Pathway Digital,Energy,175,Canada
+C0265,Northstar Systems Systems,Energy,106,Australia
+C0266,Redwood Solutions Digital,Healthcare,116,United States
+C0267,Silverline Industries Works,Insurance,116,Singapore
+C0268,Firstlight Digital Digital,Logistics,107,United Kingdom
+C0269,Apex Solutions Solutions,Travel & Hospitality,125,India
+C0270,Stonegate Atlas Systems,Insurance,112,United States
+C0271,Lighthouse Logic Digital,Logistics,111,Canada
+C0272,Apex Foundry Group,Energy,136,United States
+C0273,Vertex Digital Solutions,Media & Entertainment,129,Singapore
+C0274,Harbor Ventures Group,Logistics,109,United States
+C0275,Ridge Nexus Solutions,Insurance,101,United States
+C0276,Daybreak Systems Digital,Financial Services,109,United States
+C0277,Granite Logic Technologies,Logistics,158,India
+C0278,Oak Network Digital,Education Technology,165,Australia
+C0279,Silverline Ventures Works,Software & SaaS,102,Canada
+C0280,Orchard Logic Labs,Telecommunications,140,Singapore
+C0281,Terra Technologies Works,Education Technology,168,Germany
+C0282,Parkside Studio Works,Professional Services,129,Germany
+C0283,Parkside Network Solutions,Telecommunications,136,Germany
+C0284,Goldleaf Atlas,Energy,107,Singapore
+C0285,Openfield Collective Technologies,Telecommunications,174,Australia
+C0286,Fieldstone Systems Labs,Software & SaaS,102,United Kingdom
+C0287,Bluepeak Digital Works,Telecommunications,143,Singapore
+C0288,Redwood Frontier Works,Consumer Goods,141,Germany
+C0289,Redwood Matrix Labs,Energy,176,India
+C0290,TrueNorth Vista Works,Travel & Hospitality,154,Singapore
+C0291,Vertex Sphere Digital,Consumer Goods,155,United Kingdom
+C0292,Cobalt Collective Solutions,Telecommunications,140,Germany
+C0293,Orchard Group,Software & SaaS,138,Germany
+C0294,Cobalt Insights Solutions,Retail & Commerce,108,United Kingdom
+C0295,Goldleaf Digital Technologies,Financial Services,111,Singapore
+C0296,Newcrest Wave Works,Consumer Goods,110,Germany
+C0297,Delta Bridge Labs,Travel & Hospitality,113,Germany
+C0298,Terra Foundry Labs,Manufacturing,103,United Kingdom
+C0299,Clearwater Pathway Solutions,Education Technology,100,Singapore
+C0300,Openfield Solutions,Energy,144,Singapore
+C0301,Keystone Horizon Technologies,Media & Entertainment,128,United States
+C0302,Keystone Ventures Works,Energy,157,United Kingdom
+C0303,Bright Grid Labs,Professional Services,116,Singapore
+C0304,Bright Technologies Technologies,Software & SaaS,118,Canada
+C0305,Lakeview Works,Insurance,140,Canada
+C0306,Fieldstone Cloud,Manufacturing,121,United Kingdom
+C0307,Fieldstone Network Technologies,Consumer Goods,129,United Kingdom
+C0308,Quantum Forge Labs,Healthcare,164,United Kingdom
+C0309,Quantum Vista Systems,Professional Services,147,Singapore
+C0310,Openfield Pathway Solutions,Healthcare,119,Singapore
+C0311,Westbridge Wave Technologies,Retail & Commerce,112,Canada
+C0312,Sunfield Labs,Media & Entertainment,148,Germany
+C0313,Delta Collective Labs,Travel & Hospitality,131,United States
+C0314,Cedar Wave Digital,Telecommunications,156,Australia
+C0315,Lighthouse Digital Systems,Professional Services,140,Germany
+C0316,Oak Harbor Works,Travel & Hospitality,112,Singapore
+C0317,Apex Works,Logistics,100,India
+C0318,Summit Pathway Technologies,Healthcare,175,Australia
+C0319,Riverbend Works Labs,Manufacturing,131,India
+C0320,Cedar Galaxy Digital,Energy,154,India
+C0321,Meridian Atlas Systems,Insurance,128,Germany
+C0322,Ridge Pioneer Labs,Retail & Commerce,135,United States
+C0323,Keystone Wave Group,Professional Services,115,Canada
+C0324,Evergreen Galaxy Digital,Insurance,171,United Kingdom
+C0325,Copper Orbit Technologies,Financial Services,111,Australia
+C0326,Fieldstone Atlas Technologies,Travel & Hospitality,130,Canada
+C0327,Newcrest Ventures,Insurance,136,Canada
+C0328,Openfield Orbit Technologies,Consumer Goods,177,Australia
+C0329,Falcon Technologies Labs,Travel & Hospitality,110,United States
+C0330,Granite Systems Solutions,Travel & Hospitality,172,United States
+C0331,Summit Beacon,Education Technology,180,Singapore
+C0332,Crown Group Technologies,Manufacturing,159,Singapore
+C0333,Openfield Technologies Labs,Software & SaaS,104,Australia
+C0334,Crown Logic Works,Education Technology,134,Singapore
+C0335,Bright Grid Solutions,Education Technology,177,Australia
+C0336,Pioneer Foundry Digital,Retail & Commerce,163,United States
+C0337,Newcrest Peak,Travel & Hospitality,136,Australia
+C0338,Stonegate Nexus Technologies,Consumer Goods,151,Singapore
+C0339,Daybreak Wave Systems,Insurance,149,India
+C0340,Firstlight Orbit Group,Healthcare,119,Australia
+C0341,Riverbend Orbit Solutions,Consumer Goods,107,Germany
+C0342,Redwood Collective,Media & Entertainment,145,India
+C0343,Copper Peak Digital,Media & Entertainment,149,Singapore
+C0344,Redwood Nexus,Financial Services,121,United States
+C0345,Northstar Systems,Manufacturing,121,Canada
+C0346,Tandem Works Digital,Media & Entertainment,177,United Kingdom
+C0347,Cobalt Harbor Digital,Consumer Goods,173,United States
+C0348,Sunfield Cloud Labs,Manufacturing,157,India
+C0349,Harbor Partners Digital,Media & Entertainment,160,Australia
+C0350,Granite Foundry Systems,Telecommunications,145,United States
+C0351,Riverbend Dynamics Digital,Insurance,170,Australia
+C0352,Parkside Labs Digital,Financial Services,157,United States
+C0353,Stonegate Orbit Labs,Financial Services,156,United Kingdom
+C0354,Northstar Network Works,Telecommunications,170,Australia
+C0355,Falcon Logic Systems,Consumer Goods,152,United States
+C0356,Ironwood Works Labs,Energy,168,Singapore
+C0357,Summit Galaxy Solutions,Financial Services,137,Canada
+C0358,Ironwood Labs Digital,Healthcare,164,United Kingdom
+C0359,Openfield Horizon Group,Financial Services,144,Australia
+C0360,Riverbend Harbor Technologies,Consumer Goods,146,Australia
+C0361,Maple Sphere Works,Financial Services,148,India
+C0362,Terra Matrix,Professional Services,149,United States
+C0363,Apex Galaxy Systems,Media & Entertainment,162,United States
+C0364,Harbor Pathway,Manufacturing,108,India
+C0365,Moonstone Sphere Works,Financial Services,118,United States
+C0366,Westbridge Harbor Labs,Software & SaaS,165,Australia
+C0367,Tandem Labs Systems,Consumer Goods,118,Canada
+C0368,Quantum Systems Technologies,Manufacturing,165,Singapore
+C0369,Maple Bridge Digital,Logistics,101,India
+C0370,Cobalt Digital Technologies,Manufacturing,104,Singapore
+C0371,Meridian Compass Digital,Logistics,141,Germany
+C0372,Oak Atlas Digital,Telecommunications,164,United States
+C0373,Falcon Partners Works,Retail & Commerce,110,Canada
+C0374,Ironwood Compass Systems,Media & Entertainment,137,India
+C0375,Openfield Signal Technologies,Software & SaaS,168,United Kingdom
+C0376,Newcrest Beacon,Software & SaaS,162,United States
+C0377,Newcrest Works Works,Media & Entertainment,177,Australia
+C0378,Delta Studio Solutions,Insurance,110,Australia
+C0379,Summit Group Labs,Telecommunications,123,Canada
+C0380,Daybreak Network Systems,Travel & Hospitality,175,United Kingdom
+C0381,Apex Digital Technologies,Travel & Hospitality,139,India
+C0382,Ridge Harbor,Software & SaaS,115,Australia
+C0383,Bluepeak Dynamics Group,Travel & Hospitality,136,Australia
+C0384,Evergreen Pioneer Systems,Retail & Commerce,175,Australia
+C0385,Copper Atlas Digital,Insurance,150,Australia
+C0386,Delta Works Labs,Telecommunications,128,Canada
+C0387,Northstar Works Systems,Insurance,120,Germany
+C0388,Cobalt Galaxy Group,Telecommunications,165,Australia
+C0389,Orchard Horizon Systems,Energy,148,United States
+C0390,Tandem Insights Systems,Financial Services,138,Germany
+C0391,Firstlight Studio Systems,Manufacturing,112,Singapore
+C0392,Summit Technologies Works,Travel & Hospitality,141,Canada
+C0393,Sunfield Group Group,Media & Entertainment,131,Singapore
+C0394,Cobalt Collective Group,Professional Services,173,Canada
+C0395,Ridge Forge Systems,Travel & Hospitality,180,Singapore
+C0396,Union Partners Labs,Insurance,114,India
+C0397,Newcrest Dynamics Works,Media & Entertainment,119,Australia
+C0398,Bluepeak Solutions Systems,Consumer Goods,146,India
+C0399,Vertex Nexus Group,Financial Services,102,Germany
+C0400,Juniper Ventures Digital,Education Technology,136,Germany
+C0401,Pioneer Insights Group,Financial Services,144,Singapore
+C0402,Vertex Bridge Labs,Consumer Goods,105,Australia
+C0403,Summit Beacon Systems,Travel & Hospitality,150,Canada
+C0404,Union Bridge Works,Professional Services,166,Canada
+C0405,Crescent Digital Technologies,Retail & Commerce,171,United Kingdom
+C0406,Stonegate Technologies Solutions,Retail & Commerce,141,United Kingdom
+C0407,TrueNorth Analytics,Healthcare,119,Australia
+C0408,Tandem Insights Digital,Healthcare,134,India
+C0409,Westbridge Ventures,Travel & Hospitality,180,Australia
+C0410,Fieldstone Harbor Works,Healthcare,164,Singapore
+C0411,Falcon Foundry Digital,Logistics,165,Canada
+C0412,Terra Forge Digital,Media & Entertainment,114,Australia
+C0413,Parkside Forge Labs,Energy,108,India
+C0414,Vertex Industries Group,Healthcare,163,Canada
+C0415,Lakeview Pathway Systems,Retail & Commerce,167,Singapore
+C0416,Tandem Ventures Works,Healthcare,164,Germany
+C0417,Willow Forge Technologies,Financial Services,111,United Kingdom
+C0418,TrueNorth Works Digital,Software & SaaS,169,United Kingdom
+C0419,Maple Matrix,Travel & Hospitality,108,Canada
+C0420,Skyward Foundry Digital,Energy,116,Germany
+C0421,Stonegate Pioneer Systems,Manufacturing,160,Singapore
+C0422,Openfield Logic Labs,Software & SaaS,122,India
+C0423,Riverbend Group Technologies,Logistics,118,Germany
+C0424,Stonegate Harbor Technologies,Education Technology,103,India
+C0425,Keystone Industries Works,Software & SaaS,148,United Kingdom
+C0426,Union Compass Systems,Logistics,146,Singapore
+C0427,Cloudline Foundry Labs,Education Technology,170,India
+C0428,Copper Digital Group,Professional Services,158,Germany
+C0429,Cloudline Collective Group,Travel & Hospitality,138,Australia
+C0430,Oak Beacon Works,Software & SaaS,111,India
+C0431,Goldleaf Industries Digital,Education Technology,107,Canada
+C0432,Summit Matrix Digital,Media & Entertainment,137,Singapore
+C0433,Riverbend Pathway Works,Telecommunications,149,India
+C0434,Openfield Systems Systems,Professional Services,157,Singapore
+C0435,Northstar Wave,Professional Services,148,United States
+C0436,Orchard Dynamics Works,Education Technology,147,United States
+C0437,TrueNorth Horizon Digital,Consumer Goods,128,India
+C0438,Ridge Vista Labs,Insurance,155,United Kingdom
+C0439,Meridian Partners Systems,Travel & Hospitality,118,Singapore
+C0440,Moonstone Network Labs,Manufacturing,132,India
+C0441,Terra Vista Works,Healthcare,120,United States
+C0442,Skyward Sphere Solutions,Logistics,147,Singapore
+C0443,Tandem Foundry,Travel & Hospitality,152,United Kingdom
+C0444,Crown Peak Digital,Software & SaaS,129,India
+C0445,Cloudline Peak Digital,Travel & Hospitality,149,Canada
+C0446,Silverline Ventures Systems,Education Technology,167,Canada
+C0447,Silverline Wave,Logistics,163,Canada
+C0448,Northstar Insights,Consumer Goods,119,Germany
+C0449,Summit Systems Works,Professional Services,157,United Kingdom
+C0450,Summit Pioneer,Healthcare,155,Singapore
+C0451,Oak Digital Works,Media & Entertainment,139,Germany
+C0452,Crescent Works Solutions,Logistics,149,India
+C0453,Westbridge Foundry Solutions,Consumer Goods,153,India
+C0454,Sunfield Wave Labs,Manufacturing,114,United Kingdom
+C0455,Lighthouse Labs Digital,Financial Services,115,United States
+C0456,Vertex Partners Works,Consumer Goods,132,United Kingdom
+C0457,Pioneer Digital Systems,Travel & Hospitality,121,Australia
+C0458,Union Foundry Solutions,Insurance,139,United States
+C0459,Riverbend Grid,Professional Services,145,Australia
+C0460,Keystone Collective Technologies,Financial Services,155,India
+C0461,Cloudline Industries Solutions,Software & SaaS,105,Germany
+C0462,Maple Nexus Works,Energy,171,United Kingdom
+C0463,Bright Studio Technologies,Insurance,178,Australia
+C0464,Newcrest Compass Labs,Telecommunications,100,Canada
+C0465,Clearwater Analytics Works,Manufacturing,125,Singapore
+C0466,Crown Peak Technologies,Healthcare,102,Singapore
+C0467,Granite Frontier Works,Healthcare,168,Germany
+C0468,Tandem Vista Group,Financial Services,119,Singapore
+C0469,Copper Vista Digital,Education Technology,127,Australia
+C0470,Evergreen Pathway Digital,Consumer Goods,111,Australia
+C0471,Daybreak Atlas Systems,Healthcare,112,Australia
+C0472,Lakeview Analytics Works,Healthcare,152,Canada
+C0473,Firstlight Sphere,Retail & Commerce,127,Germany
+C0474,Firstlight Studio,Telecommunications,171,India
+C0475,Pioneer Compass Digital,Energy,141,United Kingdom
+C0476,Clearwater Collective Digital,Professional Services,110,Canada
+C0477,Parkside Partners Works,Manufacturing,123,Germany
+C0478,Vertex Collective Technologies,Healthcare,158,Singapore
+C0479,Tandem Systems Labs,Insurance,120,Canada
+C0480,Granite Signal Works,Insurance,126,Germany
+C0481,Cloudline Matrix Systems,Telecommunications,165,India
+C0482,Bright Partners Solutions,Retail & Commerce,125,Singapore
+C0483,Westbridge Labs Technologies,Retail & Commerce,112,United States
+C0484,Skyward Group Works,Media & Entertainment,113,Australia
+C0485,Fieldstone Signal Solutions,Healthcare,173,United Kingdom
+C0486,Bright Network Solutions,Travel & Hospitality,121,Singapore
+C0487,Quantum Horizon Solutions,Telecommunications,113,United Kingdom
+C0488,Newcrest Wave Solutions,Professional Services,123,India
+C0489,Granite Peak,Professional Services,167,United States
+C0490,Harbor Group Technologies,Travel & Hospitality,159,United States
+C0491,Skyward Nexus Systems,Healthcare,147,India
+C0492,Fieldstone Forge Solutions,Travel & Hospitality,178,India
+C0493,Silverline Peak Labs,Retail & Commerce,162,Canada
+C0494,Westbridge Ventures Works,Healthcare,156,Australia
+C0495,Riverbend Analytics Solutions,Professional Services,110,United Kingdom
+C0496,Cloudline Sphere Technologies,Insurance,177,Germany
+C0497,Juniper Partners Technologies,Professional Services,154,Singapore
+C0498,Bright Sphere,Travel & Hospitality,161,India
+C0499,Summit Collective Solutions,Travel & Hospitality,119,United Kingdom
+C0500,Cobalt Technologies Works,Insurance,161,United Kingdom

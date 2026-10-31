@@ -1,0 +1,52 @@
+{
+  "dataset": {
+    "companies": 500,
+    "employees": 69293,
+    "train_companies": 300,
+    "validation_companies": 100,
+    "test_companies": 100,
+    "split_seed": 20261029
+  },
+  "threshold_selection": {
+    "method": "Company-level holdout; tune confidence threshold on validation companies only",
+    "selection_rule": "Highest validation edge coverage among thresholds with precision >= 0.95",
+    "chosen_threshold": 0.93,
+    "minimum_candidate_margin": 0.035,
+    "validation_metrics_at_chosen_threshold": {
+      "threshold": 0.93,
+      "min_margin": 0.035,
+      "employees_evaluated": 14059,
+      "ground_truth_edges": 13959,
+      "predicted_edges": 6541,
+      "correct_edges": 6371,
+      "precision": 0.974,
+      "recall": 0.4564,
+      "edge_coverage": 0.4686,
+      "unresolved_employee_rate": 0.5347
+    }
+  },
+  "held_out_test_metrics": {
+    "threshold": 0.93,
+    "min_margin": 0.035,
+    "employees_evaluated": 13627,
+    "ground_truth_edges": 13527,
+    "predicted_edges": 6294,
+    "correct_edges": 6136,
+    "precision": 0.9749,
+    "recall": 0.4536,
+    "edge_coverage": 0.4653,
+    "unresolved_employee_rate": 0.5381
+  },
+  "all_data_reference_metrics_not_used_for_selection": {
+    "threshold": 0.93,
+    "min_margin": 0.035,
+    "employees_evaluated": 69293,
+    "ground_truth_edges": 68793,
+    "predicted_edges": 31940,
+    "correct_edges": 31135,
+    "precision": 0.9748,
+    "recall": 0.4526,
+    "edge_coverage": 0.4643,
+    "unresolved_employee_rate": 0.5391
+  }
+}
