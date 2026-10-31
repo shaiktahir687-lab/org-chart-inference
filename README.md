@@ -1,5 +1,13 @@
 # Org Chart Inference
 
+## Live Demo
+
+**Live Application:**
+https://org-chart-inference-lkm4i4h7shomnv9yxnutcu.streamlit.app/
+
+**GitHub Repository:**
+https://github.com/shaiktahir687-lab/org-chart-inference 
+
 A small, reproducible org-chart inference platform built around one principle: **an unsupported reporting line is worse than an unresolved employee**.
 
 The project includes a synthetic benchmark (500 companies, at least 100 employees per company), a conservative inference engine, a held-out company-level evaluation, and a Streamlit app for exploring the inferred hierarchy.
@@ -25,7 +33,7 @@ python -m venv .venv
 # macOS/Linux
 source .venv/bin/activate
 # Windows PowerShell
-# .venv\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -49,20 +57,6 @@ To keep the existing flat profiles and just refresh inference/evaluation:
 ```bash
 python build.py --skip-generate
 ```
-
-## Publish the Git repository
-
-After extracting the project folder, create an empty GitHub repository, then run these commands from inside `org-chart-inference`:
-
-```bash
-git init -b main
-git add .
-git commit -m "Build org chart inference prototype"
-git remote add origin https://github.com/<YOUR-USERNAME>/org-chart-inference.git
-git push -u origin main
-```
-
-Replace `<YOUR-USERNAME>` with your GitHub username and use the repository URL shown by GitHub.
 
 ## Deploy on Streamlit Community Cloud
 
